@@ -32,7 +32,7 @@ Note
 Ensure that your proxy details are correctly configured to avoid connection issues.
 The script may need adjustments if there are changes to the Naukri.com website structure.
 
-# Cleaning Naukri Jobs Data
+# Cleaning Naukri Jobs Data (naukri-csv.py)
 This Python script uses the Pandas library to clean and enhance the Naukri jobs data extracted from the job_data.csv file. It performs various cleaning operations on columns such as 'Company Name', 'Location', 'Job Description', 'Job role', 'Education', 'Key Skill', and 'Job Openings'.
 
 # Cleaning Operations
